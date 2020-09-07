@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
 
 html {
   box-sizing: border-box;
@@ -10,7 +10,7 @@ body {
   overflow-y: hidden;
   display: flex;
   align-items: center;
-  font-family: 'Courgette', cursive;
+  font-family: 'Abril Fatface', cursive;
 }
 
 /* Video Background */
@@ -82,7 +82,7 @@ input {
   border-radius: 20px;
   background: #fff;
   outline: none;
-  font-family: 'Courgette', cursive;
+  font-family: 'Abril Fatface', cursive;
 }
 
 /* Button */
